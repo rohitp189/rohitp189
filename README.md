@@ -48,4 +48,4 @@ I believe in developing products that are original, productive, and secure. My f
 ## 🔗 Let's Connect!  
 - [Website](https://rohitpawra.in)  
 - [LinkedIn](https://www.linkedin.com/in/rohitpawra/)  
-- [Email](mailto:rohitpawra189@gmail.com)
+- Email: rohitpawra189@gmail.com

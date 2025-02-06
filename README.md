@@ -6,23 +6,19 @@ I am passionate about creating functional, reliable, and secure projects that en
 ---
 
 ## 🛠 Projects  
-- **[ProxyRent](#)**  
-  A real estate property management app designed to streamline the rental process for both tenants and landlords.
 
-- **[SecureHood](#)**  
-  A neighborhood safety and management app focused on improving community security.
-
-- **[Stealth Check](#)**  
-  A tool for face disguise classification, enhancing privacy and security measures.
-
-- **[Amazon Sentiment Analysis & Fake Review Detection](#)**  
+- **[Amazon Sentiment Analysis & Fake Review Detection](https://github.com/rohitp189/Amazon-Sentiment-Analysis)**  
   An AI-powered system for detecting fake reviews and providing valuable customer sentiment insights.
 
-- **[Drowsiness Detection & Driver Management System](#)**  
+- **[Drowsiness Detection & Driver Management System](https://github.com/rohitp189/Drowsiness-Detection-System)**  
   A system designed to monitor driver drowsiness in real-time to enhance road safety.
 
-- **[Customer Management App](#)**  
+- **[Customer Management App](https://github.com/rohitp189/Customer-Management-System)**  
   A comprehensive app for businesses to manage customer profiles, track purchases, and automate routine tasks.
+
+- **[ProxyRent](https://github.com/rohitp189/ProxyRent)**  
+  A real estate property management app designed to streamline the rental process for both tenants and landlords.
+
 
 ---
 

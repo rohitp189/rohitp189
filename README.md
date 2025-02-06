@@ -9,7 +9,7 @@ Kharghar, Navi Mumbai, MH, India
 
 ## 🌐 Contact  
 - [GitHub](https://github.com/rohitp189)  
-- [Website](http://rohitpawra.com)  
+- [Website](http://rohitpawra.in)  
 - 📧 rohitpawra189@gmail.com  
 - 📞 +91(700)-054-7806
 

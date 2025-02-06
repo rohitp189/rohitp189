@@ -6,14 +6,23 @@ I am passionate about creating functional, reliable, and secure projects that en
 ---
 
 ## 🛠 Projects  
-- **ProxyRent**  
+- **[ProxyRent](#)**  
   A real estate property management app designed to streamline the rental process for both tenants and landlords.
 
-- **SecureHood**  
+- **[SecureHood](#)**  
   A neighborhood safety and management app focused on improving community security.
 
-- **Stealth Check**  
+- **[Stealth Check](#)**  
   A tool for face disguise classification, enhancing privacy and security measures.
+
+- **[Amazon Sentiment Analysis & Fake Review Detection](#)**  
+  An AI-powered system for detecting fake reviews and providing valuable customer sentiment insights.
+
+- **[Drowsiness Detection & Driver Management System](#)**  
+  A system designed to monitor driver drowsiness in real-time to enhance road safety.
+
+- **[Customer Management App](#)**  
+  A comprehensive app for businesses to manage customer profiles, track purchases, and automate routine tasks.
 
 ---
 
@@ -42,6 +51,3 @@ I am passionate about creating functional, reliable, and secure projects that en
 
 ## 💡 What Drives Me  
 I believe in developing products that are original, productive, and secure. My focus goes beyond just following trends; I prioritize up-to-date security and building projects that improve people’s efficiency.
-
----
-
